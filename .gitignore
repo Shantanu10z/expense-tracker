@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+
+# Log files and temp
+*.log
+*.tmp
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Explicitly keep these
+!config.json
+!icons/
+!scrrenshots/
+!LICENSE
+!README.md
+!main.py
+!expenses.db
